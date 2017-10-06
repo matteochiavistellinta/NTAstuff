@@ -1,4 +1,4 @@
-#Cupole Ogivali
+# Cupole Ogivali
 
-##Reference Links
-http://www.architetturadipietra.it/wp/?p=524
+## Reference Links:
+- http://www.architetturadipietra.it/wp/?p=524
